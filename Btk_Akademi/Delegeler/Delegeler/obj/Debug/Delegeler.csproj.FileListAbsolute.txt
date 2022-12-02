@@ -1,0 +1,8 @@
+C:\Users\AYKARS\Desktop\C#\Delegeler\Delegeler\bin\Debug\Delegeler.exe.config
+C:\Users\AYKARS\Desktop\C#\Delegeler\Delegeler\bin\Debug\Delegeler.exe
+C:\Users\AYKARS\Desktop\C#\Delegeler\Delegeler\bin\Debug\Delegeler.pdb
+C:\Users\AYKARS\Desktop\C#\Delegeler\Delegeler\obj\Debug\Delegeler.csproj.AssemblyReference.cache
+C:\Users\AYKARS\Desktop\C#\Delegeler\Delegeler\obj\Debug\Delegeler.csproj.SuggestedBindingRedirects.cache
+C:\Users\AYKARS\Desktop\C#\Delegeler\Delegeler\obj\Debug\Delegeler.csproj.CoreCompileInputs.cache
+C:\Users\AYKARS\Desktop\C#\Delegeler\Delegeler\obj\Debug\Delegeler.exe
+C:\Users\AYKARS\Desktop\C#\Delegeler\Delegeler\obj\Debug\Delegeler.pdb

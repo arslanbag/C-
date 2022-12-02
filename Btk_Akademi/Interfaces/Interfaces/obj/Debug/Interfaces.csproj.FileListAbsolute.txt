@@ -1,0 +1,8 @@
+C:\Users\AYKARS\Desktop\C#\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\AYKARS\Desktop\C#\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\AYKARS\Desktop\C#\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\AYKARS\Desktop\C#\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\AYKARS\Desktop\C#\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\AYKARS\Desktop\C#\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\AYKARS\Desktop\C#\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\AYKARS\Desktop\C#\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
