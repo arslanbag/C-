@@ -1,0 +1,8 @@
+C:\Users\AYKARS\Desktop\C#\Patterns\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\AYKARS\Desktop\C#\Patterns\Decorator\bin\Debug\Decorator.exe
+C:\Users\AYKARS\Desktop\C#\Patterns\Decorator\bin\Debug\Decorator.pdb
+C:\Users\AYKARS\Desktop\C#\Patterns\Decorator\obj\Debug\Decorator.csproj.AssemblyReference.cache
+C:\Users\AYKARS\Desktop\C#\Patterns\Decorator\obj\Debug\Decorator.csproj.SuggestedBindingRedirects.cache
+C:\Users\AYKARS\Desktop\C#\Patterns\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\AYKARS\Desktop\C#\Patterns\Decorator\obj\Debug\Decorator.exe
+C:\Users\AYKARS\Desktop\C#\Patterns\Decorator\obj\Debug\Decorator.pdb

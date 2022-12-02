@@ -1,0 +1,8 @@
+C:\Users\AYKARS\Desktop\C#\Patterns\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\AYKARS\Desktop\C#\Patterns\Bridge\bin\Debug\Bridge.exe
+C:\Users\AYKARS\Desktop\C#\Patterns\Bridge\bin\Debug\Bridge.pdb
+C:\Users\AYKARS\Desktop\C#\Patterns\Bridge\obj\Debug\Bridge.csproj.AssemblyReference.cache
+C:\Users\AYKARS\Desktop\C#\Patterns\Bridge\obj\Debug\Bridge.csproj.SuggestedBindingRedirects.cache
+C:\Users\AYKARS\Desktop\C#\Patterns\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\AYKARS\Desktop\C#\Patterns\Bridge\obj\Debug\Bridge.exe
+C:\Users\AYKARS\Desktop\C#\Patterns\Bridge\obj\Debug\Bridge.pdb

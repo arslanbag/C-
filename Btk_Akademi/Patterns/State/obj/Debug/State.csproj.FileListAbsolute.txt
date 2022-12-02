@@ -1,0 +1,8 @@
+C:\Users\AYKARS\Desktop\C#\Patterns\State\bin\Debug\State.exe.config
+C:\Users\AYKARS\Desktop\C#\Patterns\State\bin\Debug\State.exe
+C:\Users\AYKARS\Desktop\C#\Patterns\State\bin\Debug\State.pdb
+C:\Users\AYKARS\Desktop\C#\Patterns\State\obj\Debug\State.csproj.AssemblyReference.cache
+C:\Users\AYKARS\Desktop\C#\Patterns\State\obj\Debug\State.csproj.SuggestedBindingRedirects.cache
+C:\Users\AYKARS\Desktop\C#\Patterns\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+C:\Users\AYKARS\Desktop\C#\Patterns\State\obj\Debug\State.exe
+C:\Users\AYKARS\Desktop\C#\Patterns\State\obj\Debug\State.pdb

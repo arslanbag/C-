@@ -1,0 +1,8 @@
+C:\Users\AYKARS\Desktop\C#\Patterns\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\AYKARS\Desktop\C#\Patterns\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\AYKARS\Desktop\C#\Patterns\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\AYKARS\Desktop\C#\Patterns\TemplateMethod\obj\Debug\TemplateMethod.csproj.AssemblyReference.cache
+C:\Users\AYKARS\Desktop\C#\Patterns\TemplateMethod\obj\Debug\TemplateMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\AYKARS\Desktop\C#\Patterns\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\AYKARS\Desktop\C#\Patterns\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\AYKARS\Desktop\C#\Patterns\TemplateMethod\obj\Debug\TemplateMethod.pdb

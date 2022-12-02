@@ -1,0 +1,8 @@
+C:\Users\AYKARS\Desktop\C#\Patterns\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\Users\AYKARS\Desktop\C#\Patterns\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\Users\AYKARS\Desktop\C#\Patterns\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\Users\AYKARS\Desktop\C#\Patterns\DependencyInjection\obj\Debug\DependencyInjection.csproj.AssemblyReference.cache
+C:\Users\AYKARS\Desktop\C#\Patterns\DependencyInjection\obj\Debug\DependencyInjection.csproj.SuggestedBindingRedirects.cache
+C:\Users\AYKARS\Desktop\C#\Patterns\DependencyInjection\obj\Debug\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\AYKARS\Desktop\C#\Patterns\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Users\AYKARS\Desktop\C#\Patterns\DependencyInjection\obj\Debug\DependencyInjection.pdb

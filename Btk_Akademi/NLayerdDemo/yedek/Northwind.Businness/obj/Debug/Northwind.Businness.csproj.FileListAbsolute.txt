@@ -1,0 +1,14 @@
+C:\Users\AYKARS\Desktop\C#\NLayerdDemo\Northwind.Businness\bin\Debug\Northwind.Businness.dll
+C:\Users\AYKARS\Desktop\C#\NLayerdDemo\Northwind.Businness\bin\Debug\Northwind.Businness.pdb
+C:\Users\AYKARS\Desktop\C#\NLayerdDemo\Northwind.Businness\bin\Debug\Northwind.DataAccess.dll
+C:\Users\AYKARS\Desktop\C#\NLayerdDemo\Northwind.Businness\bin\Debug\Northwind.Entites.dll
+C:\Users\AYKARS\Desktop\C#\NLayerdDemo\Northwind.Businness\bin\Debug\EntityFramework.dll
+C:\Users\AYKARS\Desktop\C#\NLayerdDemo\Northwind.Businness\bin\Debug\Northwind.DataAccess.pdb
+C:\Users\AYKARS\Desktop\C#\NLayerdDemo\Northwind.Businness\bin\Debug\Northwind.DataAccess.dll.config
+C:\Users\AYKARS\Desktop\C#\NLayerdDemo\Northwind.Businness\bin\Debug\Northwind.Entites.pdb
+C:\Users\AYKARS\Desktop\C#\NLayerdDemo\Northwind.Businness\bin\Debug\EntityFramework.xml
+C:\Users\AYKARS\Desktop\C#\NLayerdDemo\Northwind.Businness\obj\Debug\Northwind.Businness.csproj.AssemblyReference.cache
+C:\Users\AYKARS\Desktop\C#\NLayerdDemo\Northwind.Businness\obj\Debug\Northwind.Businness.csproj.CoreCompileInputs.cache
+C:\Users\AYKARS\Desktop\C#\NLayerdDemo\Northwind.Businness\obj\Debug\Northwind.Businness.csproj.CopyComplete
+C:\Users\AYKARS\Desktop\C#\NLayerdDemo\Northwind.Businness\obj\Debug\Northwind.Businness.dll
+C:\Users\AYKARS\Desktop\C#\NLayerdDemo\Northwind.Businness\obj\Debug\Northwind.Businness.pdb

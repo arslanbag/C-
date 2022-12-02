@@ -1,0 +1,8 @@
+C:\Users\AYKARS\Desktop\C#\Patterns\Composite\bin\Debug\Composite.exe.config
+C:\Users\AYKARS\Desktop\C#\Patterns\Composite\bin\Debug\Composite.exe
+C:\Users\AYKARS\Desktop\C#\Patterns\Composite\bin\Debug\Composite.pdb
+C:\Users\AYKARS\Desktop\C#\Patterns\Composite\obj\Debug\Composite.csproj.AssemblyReference.cache
+C:\Users\AYKARS\Desktop\C#\Patterns\Composite\obj\Debug\Composite.csproj.SuggestedBindingRedirects.cache
+C:\Users\AYKARS\Desktop\C#\Patterns\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\AYKARS\Desktop\C#\Patterns\Composite\obj\Debug\Composite.exe
+C:\Users\AYKARS\Desktop\C#\Patterns\Composite\obj\Debug\Composite.pdb
